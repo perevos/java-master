@@ -2,7 +2,7 @@ package ru.bfu.ipmit.lab2;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class RotateMatrixTests {
 
@@ -13,7 +13,7 @@ public class RotateMatrixTests {
         int[][] actualResult = Lab2.rotateMatrix(matrix);
 
         int[][] expectedResult = {{7, 4, 1}, {8, 5, 2}, {9, 6, 3}};
-        assertEquals(actualResult, expectedResult);
+        assertArrayEquals(actualResult, expectedResult);
     }
 
 }
