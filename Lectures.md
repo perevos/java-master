@@ -15,7 +15,7 @@
 | 07.09.21 | Глава 1. Введение  | [pdf](lectures/lecture1/Lecture1.pdf) | |
 | 14.09.21 | Глава 2. Базовый синтаксис | [pdf](lectures/lecture2/Lecture2.pdf) | 16.09.21: исправлены |опечатки на слайдах 4 и 19 |
 | 21.09.21 | Глава 3. Основы ООП | [pdf](lectures/lecture3/Lecture3.pdf) | |
-| 28.09.21 |                    |           | |
+| 28.09.21 | Глава 4. Основы объектно-ориентированного проектирования | [pdf](lectures/lecture3/Lecture3.pdf), [примеры кода](https://github.com/perevos/java-master/tree/main/lectures/lecture4/CodeSmellsExamples) | |
 | 05.10.21 |                    |           | |
 | 12.10.21 |                    |           | |
 | 19.10.21 |                    |           | |
