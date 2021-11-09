@@ -18,4 +18,4 @@
 | 28.09.21<br/>05.10.21 | 4. Основы объектно-ориентированного проектирования | [pdf](lectures/lecture4/Lecture4.pdf), [примеры кода](https://github.com/perevos/java-master/tree/main/lectures/lecture4/CodeSmellsExamples) | |
 | 12.10.21 | 5. Шаблоны, коллекции, потоки | [pdf](lectures/lecture5/Lecture5.pdf) | |
 | 19.10.21 | 6. Обработка ошибок | [pdf](lectures/lecture6/Lecture6.pdf) | |
-| 26.10.21 |                    |           | |
+| 26.10.21 | 7. Рефлексия | [pdf](lectures/lecture7/Lecture7.pdf) | |
